@@ -1,0 +1,3 @@
+Este repositorio contiene diferentes archivos REDAME que he generado con el tiempo para documentar procesos, configuraciones, entre otros.
+
+Actualmente este README se encuentra en proceso de edición...
