@@ -1,3 +1,4 @@
-Este repositorio contiene diferentes archivos REDAME que he generado con el tiempo para documentar procesos, configuraciones, entre otros.
+# README_Varios
+Este repositorio contiene diferentes READMES con información de temas varios (procesos, configuraciones, entre otros) que me han parecido importantes y/o que simplemente quise documentar. 
 
 Actualmente este README se encuentra en proceso de edición...
