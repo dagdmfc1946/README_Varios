@@ -1,5 +1,5 @@
 # InventariosAPP
-Acá se encontrará documentado el desarrollo por fases conforme se vaya avanzando con el proyecto, la idea es ir acutalizando la documentación cada vez que se haga un cambio en una fase en específico y/o se agreguen cambios.
+Acá se encontrará documentado el desarrollo por fases conforme se vaya avanzando con el proyecto, la idea es ir actualizando la documentación cada vez que se haga un cambio en una fase en específico y/o se agreguen cambios.
 
 ## Estado actual
 F1 completada: entorno virtual Python 3.12, dependencias mínimas y configuración segura preparados y verificados.
